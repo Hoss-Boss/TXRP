@@ -19,4 +19,5 @@
 
 <b>Thanks for your patience. You can download the JAR in the releases tab to try it out.</b>
 
+https://github.com/user-attachments/assets/868fba36-fcac-4859-ab74-2d9e7162c38e
 
